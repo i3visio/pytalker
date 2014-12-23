@@ -1,0 +1,8 @@
+For more information, check the README.md in http://github.com/i3visio/pytalker
+
+v0.1.0, 2014/12/23 -- Initial release.
+	- Download capabilities fixed.
+	- Inclusion of a method to play sounds.
+	- The UI has been updated to match argparse style options.
+	- Introduced some comments to the code.
+
