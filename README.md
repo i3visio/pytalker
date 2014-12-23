@@ -28,7 +28,7 @@ This is free software, and you are welcome to redistribute it under certain cond
 
 For more details on this issue, run:
 ```
-	python pytalker.py --license
+	python pytalker-launcher.py --license
 ```
 
 Installation:
@@ -70,9 +70,9 @@ If no error is displayed, the installation would have been performed correctly.
 
 Usage:
 ======
-So as to run the program, navigate to Entify-v0.x.x/entify/ and run:
+So as to run the program, navigate to pytalker-master/pytalker and run:
 ```
-python entify.py -h
+python pytalker-launcher.py -h
 ```
 The usage is described as follows:
 ```
